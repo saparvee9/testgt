@@ -1,0 +1,11 @@
+public class Sum{
+
+public static void main(String[] args)
+{
+int a=5;
+int b=2;
+System.out.println(a+b);
+}
+}
+
+Signed-off-by: sana p <saparvee@gmail.com>
